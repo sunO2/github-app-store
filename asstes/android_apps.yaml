@@ -1,0 +1,10 @@
+version: 0.0.1
+apps:
+  - name: LibChecker
+    user: LibChecker
+    repositories: LibChecker
+    des: 检查应用信息
+  - name: LocalSend
+    user: localsend
+    repositories: localsend
+    des: 本地文件传输

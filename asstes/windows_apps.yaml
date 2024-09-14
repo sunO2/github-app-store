@@ -1,0 +1,8 @@
+version: 0.0.1
+apps:
+  - name: LibChecker
+    user: LibChecker
+    repositories: LibChecker
+  - name: LocalSend
+    user: localsend
+    repositories: localsend
