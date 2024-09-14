@@ -18,6 +18,7 @@ func main() {
 			for _, v := range release.Assets {
 				fmt.Println(v.Name)
 			}
+			fmt.Println(release.Body)
 		}
 	}
 

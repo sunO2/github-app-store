@@ -3,6 +3,7 @@ package data
 type Release struct {
 	Name   string
 	Assets []ReleaseAssets
+	Body   string
 }
 
 type ReleaseAssets struct {
